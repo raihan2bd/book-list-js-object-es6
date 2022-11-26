@@ -1,0 +1,20 @@
+{
+  "name": "book-list-js-object-es6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raihan2bd/book-list-js-object-es6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raihan2bd/book-list-js-object-es6/issues"
+  },
+  "homepage": "https://github.com/raihan2bd/book-list-js-object-es6#readme"
+}
